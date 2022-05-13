@@ -167,10 +167,9 @@ form {
     font-family: inherit;
     font-size: 16px;
     color: #737373;
+    
   }
-  .form-outline{
-    color: #000;
-     }
+
   .congratsbtn{
     width: 50%;
     font-size: 16px;
@@ -229,8 +228,7 @@ font-size: 12px;
   
   input[type='checkbox'] {
     visibility: hidden;
-  }
-  
+  }  
   input[type='checkbox'] + label span {
     display: inline-block;
     background: inherit;
