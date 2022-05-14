@@ -215,11 +215,11 @@ font-size: 12px;
   /* Username & Password Icons */
   
   #username {
-    background-image: url('/assets/img/Email.png');
+    background-image: url('./assets/img/Email.png');
   }
   
   #password {
-    background-image: url('/assets/img/Lock.png');
+    background-image: url('./assets/img/Lock.png');
   }
   
   
